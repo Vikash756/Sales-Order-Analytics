@@ -1,0 +1,50 @@
+product_id,product_name,category,price,stock
+101,Laptop,Sports,8294.0,157
+102,Smartphone,Home & Kitchen,28321.0,161
+103,Tablet,Electronics,30603.0,63
+104,Monitor,Electronics,50947.0,129
+105,Headphones,Fashion,3604.0,170
+106,Bluetooth Speaker,Home & Kitchen,53215.0,161
+107,Mouse,Sports,54684.0,125
+108,Keyboard,Beauty,51305.0,84
+109,Webcam,Home & Kitchen,46876.0,122
+110,Power Bank,Fashion,39653.0,209
+111,Smart Watch,Fashion,17975.0,173
+112,USB Cable,Home & Kitchen,53033.0,175
+113,Office Chair,Fashion,44717.0,113
+114,Backpack,Home & Kitchen,24238.0,93
+115,Running Shoes,Accessories,23964.0,236
+116,T-Shirt,Home & Kitchen,1936.0,121
+117,Coffee Maker,Home & Kitchen,20380.0,226
+118,Mixer Grinder,Fashion,28028.0,108
+119,Air Fryer,Fashion,50150.0,162
+120,Desk Lamp,Electronics,27036.0,102
+121,Yoga Mat,Electronics,28973.0,155
+122,Dumbbells,Accessories,37805.0,137
+123,Water Bottle,Electronics,47623.0,119
+124,Face Wash,Home & Kitchen,46945.0,91
+125,Hair Dryer,Fashion,1154.0,203
+126,Shampoo,Electronics,24848.0,63
+127,LED TV,Electronics,38923.0,172
+128,Router,Accessories,7692.0,217
+129,External SSD,Sports,55980.0,198
+130,Printer,Accessories,47017.0,178
+131,Mechanical Keyboard,Home & Kitchen,54701.0,237
+132,Gaming Mouse,Fashion,21856.0,170
+133,Earbuds,Accessories,51159.0,77
+134,Smart Bulb,Electronics,38859.0,42
+135,Extension Board,Fashion,26609.0,151
+136,Power Strip,Fashion,22219.0,30
+137,Bedsheet,Electronics,5231.0,57
+138,Curtains,Accessories,52962.0,157
+139,Wall Clock,Electronics,33270.0,137
+140,Cookware Set,Sports,44515.0,145
+141,Electric Kettle,Fashion,53670.0,144
+142,Toaster,Beauty,12988.0,204
+143,Fitness Band,Beauty,25642.0,154
+144,Football,Home & Kitchen,37457.0,137
+145,Cricket Bat,Electronics,2627.0,42
+146,Badminton Racket,Electronics,41072.0,185
+147,Sunglasses,Home & Kitchen,52383.0,213
+148,Wallet,Home & Kitchen,40845.0,196
+149,Jeans,Home & Kitchen,497.0,124
